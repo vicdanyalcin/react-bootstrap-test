@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import Project from "./assets/components/Project";
 import "./App.css";
 
@@ -129,7 +128,7 @@ function App() {
                   <h4 className="text-uppercase m-0">Email</h4>
                   <hr className="my-4" />
                   <div className="small text-black-50">
-                    <a href="#">hello@yourdomain.com</a>
+                    <a href="./">hello@yourdomain.com</a>
                   </div>
                 </div>
               </div>
@@ -148,13 +147,13 @@ function App() {
           </div>
 
           <div className="social d-flex justify-content-center">
-            <a href="#" className="mx-2">
+            <a href="./" className="mx-2">
               <i className="fa fa-twitter"></i>
             </a>
-            <a href="#" className="mx-2">
+            <a href="./" className="mx-2">
               <i className="fa fa-facebook-f"></i>
             </a>
-            <a href="#" className="mx-2">
+            <a href="./" className="mx-2">
               <i className="fa fa-github"></i>
             </a>
           </div>
