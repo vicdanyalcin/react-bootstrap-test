@@ -105,7 +105,6 @@
     rgba(255, 255, 255, 0)
   );
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
 }
 .masthead h2 {
   max-width: 20rem;
