@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vicdanyalcin/react-bootstrap-test/static/css/main.c644cdcc.chunk.css",
+    "main.css": "/vicdanyalcin/react-bootstrap-test/static/css/main.41487bc1.chunk.css",
     "main.js": "/vicdanyalcin/react-bootstrap-test/static/js/main.e2401511.chunk.js",
     "main.js.map": "/vicdanyalcin/react-bootstrap-test/static/js/main.e2401511.chunk.js.map",
     "runtime-main.js": "/vicdanyalcin/react-bootstrap-test/static/js/runtime-main.5b83461d.js",
@@ -8,9 +8,9 @@
     "static/js/2.d05f63a5.chunk.js": "/vicdanyalcin/react-bootstrap-test/static/js/2.d05f63a5.chunk.js",
     "static/js/2.d05f63a5.chunk.js.map": "/vicdanyalcin/react-bootstrap-test/static/js/2.d05f63a5.chunk.js.map",
     "index.html": "/vicdanyalcin/react-bootstrap-test/index.html",
-    "precache-manifest.48c3375132b966bb844d9f92e2661d58.js": "/vicdanyalcin/react-bootstrap-test/precache-manifest.48c3375132b966bb844d9f92e2661d58.js",
+    "precache-manifest.debf4aa7c519cee8bb2f86639bfc25e9.js": "/vicdanyalcin/react-bootstrap-test/precache-manifest.debf4aa7c519cee8bb2f86639bfc25e9.js",
     "service-worker.js": "/vicdanyalcin/react-bootstrap-test/service-worker.js",
-    "static/css/main.c644cdcc.chunk.css.map": "/vicdanyalcin/react-bootstrap-test/static/css/main.c644cdcc.chunk.css.map",
+    "static/css/main.41487bc1.chunk.css.map": "/vicdanyalcin/react-bootstrap-test/static/css/main.41487bc1.chunk.css.map",
     "static/js/2.d05f63a5.chunk.js.LICENSE.txt": "/vicdanyalcin/react-bootstrap-test/static/js/2.d05f63a5.chunk.js.LICENSE.txt",
     "static/media/grayscale.css": "/vicdanyalcin/react-bootstrap-test/static/media/bg-signup.5ac05903.jpg",
     "static/media/logo.svg": "/vicdanyalcin/react-bootstrap-test/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5b83461d.js",
     "static/js/2.d05f63a5.chunk.js",
-    "static/css/main.c644cdcc.chunk.css",
+    "static/css/main.41487bc1.chunk.css",
     "static/js/main.e2401511.chunk.js"
   ]
 }

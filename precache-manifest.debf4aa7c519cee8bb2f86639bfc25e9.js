@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3139082cd3e7ff009ddca4b258a6deb5",
+    "revision": "d5b44b922a51791adbfc6d43139694db",
     "url": "/vicdanyalcin/react-bootstrap-test/index.html"
   },
   {
-    "revision": "11099dee5997432bb11c",
-    "url": "/vicdanyalcin/react-bootstrap-test/static/css/main.c644cdcc.chunk.css"
+    "revision": "501f1de977c0a1cf056a",
+    "url": "/vicdanyalcin/react-bootstrap-test/static/css/main.41487bc1.chunk.css"
   },
   {
     "revision": "04d75060c25db1c09b00",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vicdanyalcin/react-bootstrap-test/static/js/2.d05f63a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11099dee5997432bb11c",
+    "revision": "501f1de977c0a1cf056a",
     "url": "/vicdanyalcin/react-bootstrap-test/static/js/main.e2401511.chunk.js"
   },
   {
