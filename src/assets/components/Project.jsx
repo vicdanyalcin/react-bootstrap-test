@@ -54,7 +54,7 @@ export default () => {
                   <p className="mb-0 text-white-50">
                     Another example of a project with its respective
                     description. These sections work well responsively as well,
-                    try this theme on a small screen!
+                    try this theme on a small screen!!
                   </p>
                   <hr className="d-non/e d-lg-block mb-0 mr-0" />
                 </div>
